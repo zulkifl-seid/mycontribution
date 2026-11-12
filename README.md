@@ -11,7 +11,7 @@
 | **Project Title**    | Digital Crime Scene Reconstruction Engine (DCSRE)                           |
 | **Project Codename** | አሻራ (Ashara)                                                                |
 | **Project Domain**   | Digital Forensics and Incident Response (DFIR)                              |
-| **Student Name**     | Zulkifl Seid                                                                |
+| **Student Name**     | (dhulkifl seid)Zulkifl Seid                                                                |
 | **Student ID**       | 1083-26                                                                     |
 | **Project Type**     | Cybersecurity / Digital Forensics                                           |
 | **Live Application** | [Visit DCSRE](https://digital-crime-scene-reconstruction-three.vercel.app/) |
