@@ -144,7 +144,7 @@ The following video demonstrates the functionality and workflow of the Digital C
 
 🎥 **Watch the Project Demonstration:**
 
-[▶ View DCSRE System Demonstration](assets/dcsre-demo.mp4)
+[▶ https://youtu.be/gwv9uouY8co)
 
 > Replace the video link above with your actual video file or hosted video URL after uploading it to GitHub.
 
