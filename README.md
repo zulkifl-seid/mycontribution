@@ -146,8 +146,6 @@ The following video demonstrates the functionality and workflow of the Digital C
 
 [▶ https://youtu.be/gwv9uouY8co)
 
-> Replace the video link above with your actual video file or hosted video URL after uploading it to GitHub.
-
 ## 🗄️ 8. Supported Forensic Artifact Formats
 
 | Artifact Category  | Supported Formats              | Forensic Information                                                      |
